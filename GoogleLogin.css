@@ -1,0 +1,97 @@
+#parent{
+    background-color: rgb(142, 142, 238);
+    height: 700px;
+    width: 1200px;
+    margin: 100px;
+    margin-left: 250px;
+    margin-top: 50px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+#div1
+{
+    background-color: white;
+    height: 550px;
+    width:350px;
+    float:left;
+     margin-left: 150px;
+    margin-top:70px ; 
+    border-radius: 5px;
+    padding-left: 55px;
+    padding-right: -50px;
+}
+#div2
+{
+    background-color: white;
+    height: 600px;
+    width:350px;
+    float: right;
+    margin-right: 150px;
+    margin-top: 45px;
+    border-radius: 5px;
+    padding-left: 55px;
+    padding-right: -50px;
+} 
+#facebook,#google
+{
+    width:14px;
+    height: 14px;
+}
+@font-face {
+    font-family: ProductSans;
+    src: url(../assests/fonts/Product\ Sans\ Bold.ttf);
+}
+h1{
+    font-family: ProductSans;
+    padding-top: 40px;
+    padding-left: 85px;
+    padding-bottom: 30px;
+    font-size: 40px;
+}
+#mail,#pass,#login,#confirmpass,#signup
+{
+    margin-bottom: 20px;
+   margin-left: 20px;
+   width: 240px;
+}
+#mail,#pass,#confirmpass
+{
+    height: 20px;
+    border-color: black;
+}
+#forget
+{
+    margin-left:80px ;
+    margin-top: -1px;
+    margin-bottom: 20px;
+}
+#signup,#login
+{
+    background-color:  rgb(144, 148, 252);
+    height: 35px;
+    border-radius: 5px;
+    width: 300px;
+    margin-left: 1px;
+}
+#dont,#already
+{
+    margin-left:50px ;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+/* #dont
+{
+    margin-top: -10px;
+} */
+#facebooklogin,#googlelogin
+{
+    margin-left: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    height: 40px;
+}
+#facebooklogin
+{
+    background-color: rgb(144, 148, 252);
+}
