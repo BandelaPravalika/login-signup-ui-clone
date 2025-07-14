@@ -1,2 +1,21 @@
-# login-signup-ui-clone
-A clean and responsive Login + Signup UI built with HTML and CSS for practice and learning purposes
+# Login + Signup UI Clone
+
+This project is a responsive, side-by-side login and signup user interface built using pure HTML and CSS. It also includes styled buttons for social login options (Facebook and Google).
+
+## Features
+
+- Responsive layout
+- Simple and clean design
+- Separate login and signup forms
+- Social login buttons (UI only)
+- Password and confirm password fields
+- Clear call-to-actions and links
+
+## Screenshot
+
+![Screenshot](screenshot.png)
+
+## Technologies Used
+
+- HTML5
+- CSS3
